@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "tryPermissionX"
 include ':app'
+include ':app:mylibrary'
+include ':mylibrary'
